@@ -19,4 +19,7 @@ Nous avons récolté des données à propos d'utilisateurs du site d'une entrepr
 
 ## Données
 
-Vous pourrez trouver les données dans votre dossier Projet -- CONVERSION RATE
+Vous pourrez trouver les données dans votre dossier Projet -- CONVERSION RATE :
+   - conversion_data_train.csv
+   - conversion_data_test.csv
+   - conversion_data_test_labels.csv (vérification du score F1 sur le dataset test sans label)
